@@ -1,6 +1,6 @@
 'use strict';
 
-describe('javascriptRefresher', function(){
+describe('javascript-Recall', function(){
 
   it('selects elements starting with A', function(){
     var result = selectElementsStartingWithA(['bananas', 'apples', 'pears', 'avocados']);
