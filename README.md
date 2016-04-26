@@ -1,5 +1,5 @@
 # Javascript-Recall
 
-A l'interieur vous trouverez une série de exercices pour vous perfectionnez en Javascript.
+In the inside you will find a series of exercises to you perfect in Javascript.
 
-Pour lancer, ouvrir `SpecRunner.html` dans votre navigateur.
+To start, open `SpecRunner.html` in your browser.
