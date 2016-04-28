@@ -1,4 +1,4 @@
-# Javascript-Recall
+# Javascript Recall
 
 A l'interieur vous trouverez une série de exercices pour vous perfectionnez en Javascript.
 
