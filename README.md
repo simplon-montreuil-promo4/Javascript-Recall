@@ -1,5 +1,5 @@
-# Javascript-Recall
+# JavascriptRecall
 
-In the inside you will find a series of exercises to you perfect in Javascript.
+Inside you will find a collection of exercises to improve your Javascript.
 
 To start, open `SpecRunner.html` in your browser.
