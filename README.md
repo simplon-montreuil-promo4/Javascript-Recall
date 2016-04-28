@@ -1,4 +1,4 @@
-# JavascriptRecall
+# Javascript Recall
 
 Inside you will find a collection of exercises to improve your Javascript.
 
