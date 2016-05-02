@@ -1,5 +1,7 @@
-# Javascript-Recall
+# Javascript Recall
 
-A l'interieur vous trouverez une série de exercices pour vous perfectionnez en Javascript.
+Inside you will find a collection of exercises to improve your Javascript.
 
-Pour lancer, ouvrir `SpecRunner.html` dans votre navigateur.
+To start, open `SpecRunner.html` in your browser.
+
+![Total Recall 1990](total-recall.jpg)
